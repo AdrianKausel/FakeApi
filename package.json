@@ -1,0 +1,19 @@
+{
+  "name": "fakeapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.1",
+    "faker": "^6.6.6"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0"
+  }
+}
